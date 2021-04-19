@@ -1,2 +1,2 @@
 # Project6
-Hangman Game
+Hangman Game Using Python
